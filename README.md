@@ -9,6 +9,7 @@ A curated list of tools, add-ons, articles or cool exploits using [Scapy](https:
 ## Contents
 
 - [Tools](#tools)
+- [Exploits](#exploits)
 
 ### Tools
 
