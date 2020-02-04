@@ -15,6 +15,7 @@ A curated list of tools, add-ons, articles or cool exploits using [Scapy](https:
 
 *Tools that use Scapy (a lot) or extend it*
 
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher): create rogue access point
 - [ufonet](https://github.com/epsylon/ufonet): create your own botnet to send untraceable DDOS attacks
 - [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Maps and tracks wifi networks and devices through raw 802.11 monitoring.
 - [net-creds](https://github.com/DanMcInerney/net-creds): Sniff and catch all sensitive data on an interface
