@@ -27,5 +27,3 @@ A curated list of tools, add-ons, articles or cool exploits using **[Scapy](http
 - [isf](https://github.com/dark-lbp/isf): ISF (Industrial Control System Exploitation Framework). A suite that provides exploits various industrial protocols
 - [CVE-2019-5597](https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf): IPv6 fragmentation vulnerability in OpenBSD Packet Filter
 - [CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407): a heap buffer overflow in the networking code in the XNU operating system kernel (iOS and MacOS)
-
-<base target="_parent">
