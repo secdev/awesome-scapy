@@ -2,6 +2,10 @@
 
 A curated list of tools, add-ons, articles or cool exploits using [Scapy](https://scapy.net).
 
+- **Scapy repository:** https://github.com/secdev/scapy
+- **Scapy website:** https://scapy.net
+- **Scapy documentation:** https://scapy.readthedocs.io/
+
 ## Contents
 
 - [Tools](#tools)
