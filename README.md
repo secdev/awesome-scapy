@@ -21,6 +21,7 @@ A curated list of tools, add-ons, articles or cool exploits using [Scapy](https:
 - [net-creds](https://github.com/DanMcInerney/net-creds): Sniff and catch all sensitive data on an interface
 - [mtraceroute](https://github.com/rwhalb/mtraceroute): create cool graphs over multiple traceroute analysis
 - [pysap](https://github.com/SecureAuthCorp/pysap): interact with SAP using custom built frames & tools
+- [mitm6](https://github.com/fox-it/mitm6): performs MiTM for IPv6
 
 ### Exploits
 
