@@ -1,10 +1,6 @@
 # Awesome Scapy [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-A curated list of tools, add-ons, articles or cool exploits using **Scapy**.
-
-- **[Scapy repository](https://github.com/secdev/scapy)**
-- **[Scapy website](https://scapy.net)**
-- **[Scapy documentation]( https://scapy.readthedocs.io/en/latest/)**
+A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**.
 
 ## Contents
 
