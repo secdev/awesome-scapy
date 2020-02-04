@@ -26,3 +26,4 @@ A curated list of tools, add-ons, articles or cool exploits using [Scapy](https:
 
 - [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts): test if clients or access points (APs) are affected by the KRACK attack against WPA2
 - [CVE-2019-5597](https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf): IPv6 fragmentation vulnerability in OpenBSD Packet Filter
+- [CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407): a heap buffer overflow in the networking code in the XNU operating system kernel (iOS and MacOS)
