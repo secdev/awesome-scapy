@@ -12,9 +12,9 @@ A curated list of tools, add-ons, articles or cool exploits using **[Scapy](http
 *Tools that use Scapy (a lot) or extend it*
 
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher): create rogue access point
-- [ufonet](https://github.com/epsylon/ufonet): create your own botnet to send untraceable DDOS attacks
-- [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Maps and tracks wifi networks and devices through raw 802.11 monitoring.
-- [net-creds](https://github.com/DanMcInerney/net-creds): Sniff and catch all sensitive data on an interface
+- [ufonet](https://github.com/epsylon/ufonet): create your own botnet to send untraceable DDoS attacks
+- [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
+- [net-creds](https://github.com/DanMcInerney/net-creds): sniff and catch all sensitive data on an interface
 - [mtraceroute](https://github.com/rwhalb/mtraceroute): create cool graphs over multiple traceroute analysis
 - [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR): Includes an enhanced version of [mtraceroute](https://github.com/rwhalb/mtraceroute) with IP Geolocation and GUI management
 - [pysap](https://github.com/SecureAuthCorp/pysap): interact with SAP using custom built frames & tools
