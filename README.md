@@ -43,6 +43,7 @@ Misc
 - [p0f3plus](https://github.com/FlUxIuS/p0f3plus): an implementation of with extra analysis features
 - [pysap](https://github.com/SecureAuthCorp/pysap): interact with SAP using custom built frames & tools
 - [Responder](https://github.com/SpiderLabs/Responder):  LLMNR, NBT-NS and MDNS poisoner
+- [scapy_unroot](https://github.com/scapy-unroot/scapy_unroot): tooling to use Scapy without root permissions
 - [sshame](https://github.com/HynekPetrak/sshame): tool to brute force SSH public-key authentication
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
 
