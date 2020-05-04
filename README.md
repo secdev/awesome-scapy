@@ -32,6 +32,7 @@ Protocols
 Unit Tests
 - [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py): Linux Traffic Control (tc) testing suite
 - [OpenBSD](https://github.com/search?q=scapy+repo%3Aopenbsd%2Fsrc+path%3Aregress%2F&type=Code&ref=advsearch&l=&l=): IPv6 stack testing suite
+- [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python&q=scapy&type=Code)
 
 Misc
 - [aioblescan](https://github.com/frawau/aioblescan): scan and decode advertised BLE info
