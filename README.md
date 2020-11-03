@@ -1,6 +1,6 @@
 # Awesome Scapy [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**. Feel free to [contribute](https://github.com/gpotter2/awesome-scapy/edit/master/README.md) !
+A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**. Feel free to [contribute](https://github.com/secdev/awesome-scapy/edit/master/README.md) !
 
 ## Contents
 
@@ -24,14 +24,14 @@ IPv6
 
 Measurements
 - [mtraceroute](https://github.com/rwhalb/mtraceroute): create cool graphs over multiple traceroute analysis
-- [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR): Includes an enhanced version of [mtraceroute](https://github.com/rwhalb/mtraceroute) with IP Geolocation and GUI management
+- [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR): Includes an enhanced version of `mtraceroute` with IP Geolocation and GUI management
 
 Protocols
 - [TorPylle](https://github.com/cea-sec/TorPylle): implementation of the OR (TOR) protocol
 
 Unit Tests
 - [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py): Linux Traffic Control (tc) testing suite
-- [OpenBSD](https://github.com/search?q=scapy+repo%3Aopenbsd%2Fsrc+path%3Aregress%2F&type=Code&ref=advsearch&l=&l=): IPv6 stack testing suite
+- [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D): IPv6 stack testing suite
 - [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python&q=scapy&type=Code): RIOT OS networking testing suite
 
 Misc
