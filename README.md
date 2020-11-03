@@ -45,6 +45,7 @@ Misc
 - [pysap](https://github.com/SecureAuthCorp/pysap): interact with SAP using custom built frames & tools
 - [Responder](https://github.com/SpiderLabs/Responder):  LLMNR, NBT-NS and MDNS poisoner
 - [scapy_unroot](https://github.com/scapy-unroot/scapy_unroot): tooling to use Scapy without root permissions
+- [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks): a small test suite that tracks the evolution of Scapy's performance.
 - [sshame](https://github.com/HynekPetrak/sshame): tool to brute force SSH public-key authentication
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
 
