@@ -1,6 +1,6 @@
 # Awesome Scapy [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**. Feel free to [contribute](https://github.com/secdev/awesome-scapy/edit/master/README.md) !
+A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**. Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmaster%2FREADME.md ) !
 
 ## Contents
 
