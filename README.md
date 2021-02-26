@@ -42,6 +42,7 @@ Misc
 - [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd): bypass wired 802.1x protection
 - [flowsynth](https://github.com/secureworks/flowsynth): tool for rapidly modeling network traffic
 - [Fragscapy](https://github.com/AMOSSYS/Fragscapy): fuzz network protocols by automating the modification of outgoing network packets
+- [Habu](https://github.com/fportantier/habu): Toolkit with a lot of little hacking tools. Many of them use Scapy.
 - [net-creds](https://github.com/DanMcInerney/net-creds): sniff and catch all sensitive data on an interface
 - [packetweaver](https://github.com/ANSSI-FR/packetweaver): a Python framework for script filing and task sequencing
 - [p0f3plus](https://github.com/FlUxIuS/p0f3plus): an implementation of with extra analysis features
