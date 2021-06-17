@@ -28,6 +28,8 @@ Measurements
 
 Protocols
 - [Cotopaxi](https://github.com/Samsung/cotopaxi): set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) 
+- [project-memoria-detector](https://github.com/Forescout/project-memoria-detector): determine whether a network device runs a specific embedded TCP/IP stack
+- [routopsy](https://github.com/sensepost/routopsy): toolkit to attack DRP & FHRP
 - [TorPylle](https://github.com/cea-sec/TorPylle): implementation of the OR (TOR) protocol
 
 Unit Tests
@@ -43,7 +45,9 @@ Misc
 - [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd): bypass wired 802.1x protection
 - [flowsynth](https://github.com/secureworks/flowsynth): tool for rapidly modeling network traffic
 - [Fragscapy](https://github.com/AMOSSYS/Fragscapy): fuzz network protocols by automating the modification of outgoing network packets
-- [Habu](https://github.com/fportantier/habu): Toolkit with a lot of little hacking tools. Many of them use Scapy.
+- [Habu](https://github.com/fportantier/habu): Toolkit with a lot of little hacking tools. Many of them use Scapy
+- [mirage](https://redmine.laas.fr/projects/mirage): powerful and modular framework dedicated to the security analysis of wireless communications
+- [netenum](https://github.com/redcode-labs/Netenum): a tool to passively discover active hosts on a network
 - [net-creds](https://github.com/DanMcInerney/net-creds): sniff and catch all sensitive data on an interface
 - [packetweaver](https://github.com/ANSSI-FR/packetweaver): a Python framework for script filing and task sequencing
 - [p0f3plus](https://github.com/FlUxIuS/p0f3plus): an implementation of with extra analysis features
@@ -58,8 +62,19 @@ Misc
 
 *Exploits that use Scapy. This does not count the ones included by default*
 
+2021
+
+- [CVE-2021-24086 ](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html): Analysis of a Windows IPv6 Fragmentation Vulnerability
+- [fragattacks](https://github.com/vanhoefm/fragattacks): Fragmentation & Aggregation Attacks
+
+2020
+
+- [CVE-2020-25577](https://blog.quarkslab.com/bad-neighbor-on-freebsd-ipv6-router-advertisement-vulnerabilities-in-rtsold-cve-2020-25577.html): Bad Neighbor on FreeBSD: IPv6 Router Advertisement Vulnerabilities in rtsold
+- [CVE-2020-16898](https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html): Beware the Bad Neighbor: Analysis and PoC of the Windows IPv6 Router Advertisement Vulnerability
+
 2019
 - [CVE-2019-5597](https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf): IPv6 fragmentation vulnerability in OpenBSD Packet Filter
+
 2018
 
 - [CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407): a heap buffer overflow in the networking code in the XNU operating system kernel (iOS and macOS)
