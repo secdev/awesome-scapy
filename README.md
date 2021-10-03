@@ -59,7 +59,6 @@ Misc
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
 - [Explore Scapy topics](https://github.com/topics/scapy) on GitHub
 
-
 ### Exploits
 
 *Exploits that use Scapy. This does not count the ones included by default*
