@@ -57,6 +57,7 @@ Misc
 - [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks): a small test suite that tracks the evolution of Scapy's performance.
 - [sshame](https://github.com/HynekPetrak/sshame): tool to brute force SSH public-key authentication
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
+- [Explore Scapy topics](https://github.com/topics/scapy) on GitHub
 
 ### Exploits
 
