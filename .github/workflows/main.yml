@@ -1,0 +1,13 @@
+name: awesome-scapy CI
+on:
+  pull_request:
+    branches: [master]
+jobs:
+  Awesome_Lint:
+    name: Linter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - run: npx --yes awesome-lint
