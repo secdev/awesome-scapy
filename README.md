@@ -1,6 +1,10 @@
 # Awesome Scapy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png" width="200" alt="Scapy" />
+</p>
 
-A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**. Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmaster%2FREADME.md ) !.
+A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**, the Python-based interactive packet manipulation program & library. 
+Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmaster%2FREADME.md ) !.
 
 You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub !
 
