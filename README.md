@@ -4,9 +4,9 @@
 </p>
 
 A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**, the Python-based interactive packet manipulation program & library. 
-Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmain%2FREADME.md ) !.
+Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmain%2FREADME.md)!
 
-You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub !
+You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub!
 
 ## Contents
 
