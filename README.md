@@ -17,6 +17,9 @@ You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub!
 
 *Tools that use Scapy (a lot) or extend it*
 
+Fun
+- [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Your AI pet that hacks WiFI to grow. It's super cute.
+
 DDoS
 - [ufonet](https://github.com/epsylon/ufonet) - Create your own botnet to send untraceable DDoS attacks.
 
