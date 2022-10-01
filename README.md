@@ -1,6 +1,6 @@
 # Awesome Scapy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
-  <img src="https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png" width="200" alt="Scapy" />
+  <a href="https://scapy.net/"><img src="https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png" width="200" alt="Scapy" /></a>
 </p>
 
 A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**, the Python-based interactive packet manipulation program & library. 
