@@ -71,6 +71,10 @@ Misc
 
 *Exploits that use Scapy. This does not count the ones included by default*
 
+2022
+
+- [CVE-2021-28444](http://blog.champtar.fr/VLAN0_LLC_SNAP) - Windows Hyper-V Security Feature Bypass Vulnerability.
+
 2021
 
 - [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Analysis of a Windows IPv6 Fragmentation Vulnerability.
