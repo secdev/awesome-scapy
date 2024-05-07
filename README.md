@@ -72,6 +72,10 @@ Misc
 
 *Exploits that use Scapy. This does not count the ones included by default*
 
+2024
+
+- [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) - Playstation 4 PPPoE RCE.
+
 2022
 
 - [CVE-2021-28444](http://blog.champtar.fr/VLAN0_LLC_SNAP) - Windows Hyper-V Security Feature Bypass Vulnerability.
