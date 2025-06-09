@@ -75,6 +75,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
+- [CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674) - Windows Kerberos Bypass leading to RCE.
 - [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) - Playstation 4 PPPoE RCE.
 
 2022
