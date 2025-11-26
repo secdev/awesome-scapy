@@ -68,6 +68,7 @@ Misc
 - [Responder](https://github.com/SpiderLabs/Responder) -  LLMNR, NBT-NS and MDNS poisoner.
 - [scapy\_unroot](https://github.com/scapy-unroot/scapy_unroot) - Tooling to use Scapy without root permissions.
 - [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks) - A small test suite that tracks the evolution of Scapy's performance.
+- [scapy-router-test](https://github.com/cveilleux/scapy-router-test) -  A scapy based router tester. Includes dhcp, dns, icmp, tcp and http scapy-based clients.
 - [sshame](https://github.com/HynekPetrak/sshame) - Tool to brute force SSH public-key authentication.
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 - [h2spacex](https://github.com/nxenon/h2spacex) - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
