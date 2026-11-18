@@ -10,8 +10,13 @@ You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub!
 
 ## Contents
 
+- [Articles](#articles)
 - [Tools](#tools)
 - [Exploits](#exploits)
+
+## Articles
+
+- [Scapy for Network Security Testing](https://en.hackita.it/articoli/scapy/) - Practical guide to installation, packet crafting and sending, ARP host discovery, BPF-filtered sniffing, PCAP analysis, and ARP spoofing with defensive context.
 
 ## Tools
 
