@@ -59,6 +59,7 @@ Misc
 - [flowsynth](https://github.com/secureworks/flowsynth) - Tool for rapidly modeling network traffic.
 - [Fragscapy](https://github.com/AMOSSYS/Fragscapy) - Fuzz network protocols by automating the modification of outgoing network packets.
 - [Habu](https://github.com/fportantier/habu) - Toolkit with a lot of little hacking tools. Many of them use Scapy.
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI that uses Scapy to audit what smart home devices on your own network send, with an A to F grade and HTML reports.
 - [mirage](https://redmine.laas.fr/projects/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.
 - [netenum](https://github.com/redcode-labs/Netenum) - A tool to passively discover active hosts on a network.
 - [net-creds](https://github.com/DanMcInerney/net-creds) - Sniff and catch all sensitive data on an interface.
